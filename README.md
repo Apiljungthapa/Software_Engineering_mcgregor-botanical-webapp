@@ -24,8 +24,7 @@ For detailed specifications, diagrams, and other project-related documents, refe
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow our [Contribution Guidelines](link_to_contributing_guidelines).
-
+Contributions are welcome! If you'd like to contribute to this project, please follow our Contribution Guidelines.
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Apiljungthapa/Software_Engineering_mcgregor-botanical-webapp/blob/master/MIT%20License.txt).
+This project is licensed under the [MIT License](https://github.com/Apiljungthapa/Software_Engineering_mcgregor-botanical-webapp/blob/master/LICENSE).
